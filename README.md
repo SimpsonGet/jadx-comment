@@ -6,10 +6,9 @@
 
 使用 **JLabel** 在原提示框基础上显示输入内容
 
-![image-20250321204246857](E:\AndoridPackets\android\AndroidStudioProjects\jadx-master\build\picture\README.assets\image-20250321204246857.png)
 
-![image-20250321202452708](C:\Users\simpson\AppData\Roaming\Typora\typora-user-images\image-20250321202452708.png)
-
+![image-20250321204246857](https://github.com/user-attachments/assets/89c1ce74-5304-4b39-bd84-71a572559fff)
+![Uploading image-20250321202452708.png…]()
 
 
 ## 构建
